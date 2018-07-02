@@ -1,0 +1,2 @@
+# Studies-DesignPattern
+Studium Entwurfsmuster
